@@ -29,7 +29,7 @@ function Diagram() {
               <br />
               <br />
               You already devote a lot of your time and resources to make a
-              difference - you shouldn’t have to pay for resources that can help
+              difference - you shouldn’t have to pay for services that can help
               you place your foster babies in their forever homes. Contact us
               today to get started with your own Toto Initiative site.
             </div>
